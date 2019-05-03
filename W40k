@@ -121,19 +121,18 @@
 39517	Kliknij LPM, aby przemieścić swoja jednostke w to miejsce.  Przytrzymaj klawisz SHIFT, aby stworzyć więcej punktów nawigacyjnych.
 39518	Kliknij LPM w wybranym miejscu, aby ustalić tam punkt zbiórki dla danego budynku.
 39535	GrupaSkrotow
-
-39536	Laczy zaznaczone budynki lub jednostki w grupy, ktore mozna wywolywac pozniej. Kliknij PPM, aby stworzyc nowa grupe. Kliknij LPM, by zaznaczyc utworzona uprzednio grupe. Kliknij dwukrotnie, aby wycentrowac obraz na zaznaczonej grupie. Wcisniecie CTRL+U rozwiazuje grupe.
+39536	Łączy zaznaczone budynki lub jednostki w grupy, które można wywoływać później. Kliknij PPM, aby stworzyć nową grupę. Kliknij LPM, by zaznaczyć utworzoną uprzednio grupę. Kliknij dwukrotnie, aby wygenerować obraz na zaznaczonej grupie. Wciśnięcie CTRL+U rozwiązuje grupę.
 39537	Ekran Mini-Mapy
-39538	Widok taktyczny calej mapy z lotu ptaka.  Obszary, ktorych nie widzisz zaznaczone sa na szaro.
+39538	Widok taktyczny całej mapy z lotu ptaka.  Obszary, których nie widzisz zaznaczone są na szaro.
 40501	Zasoby
-40502	Poziom trudnosci SI
+40502	Poziom trudności SI
 40505	Startowe zasoby
-40506	Zablokuj druzyny
-40507	Pozwol na oszustwa
+40506	Zablokuj drużyny
+40507	Pozwól na oszustwa
 40508	Punkt startowy
-40509	Szybkosc gry
-40510	Podzial zasobow
-40511	Poz. zasobow
+40509	Szybkość gry
+40510	Podział zasobów
+40511	Poz. zasobów
 40520	Wolne
 40521	Standardowe
 40522	Szybkie
@@ -141,9 +140,9 @@
 40531	Standard
 40532	Wysoki
 40533	Bardzo wysoki
-40534	Oblakany
+40534	Obłąkany
 40560	Standard
-40561	Szybkie rozpoczecie
+40561	Szybkie rozpoczęcie
 40570	Tak
 40571	Nie
 40590	Tak
@@ -158,53 +157,54 @@
 40630	Tak
 40631	Nie
 40750	Energia
-40751	Buduj generatory, by pozyskiwac energie. Jest ona dodatkowym zasobem, zuzywanym glownie na produkcje pojazdow, broni ciezkiej i zaawansowanych jednostek oraz budynkow.
+40751	Buduj generatory, by pozyskiwać energie. Jest ona dodatkowym zasobem, zużywanym głównie na produkcję pojazdów, broni ciężkiej i zaawansowanych jednostek oraz budynków.
 40752	Rekwizycja
-40753	Zdobywaj punkty strategiczne za pomoca oddzialow piechoty, by pozyskiwac punkty rekwizycji. Sa one glownym zasobem, zuzywanym glownie na produkcje wiekszosci jednostek i budynkow.
-40754	Zasob Orkow
-40755	Buduj Sztandary Waaagh!, by zwiekszyc Zasob Orkow. Sa one zuzywane glownie na tworzenie jednostek Orkow. Liczba jednostek oraz ilosc Zasobow Orkow skladaja sie na liczebnosc armii. Im jest ona wieksza, tym wiecej dostepnych jednostek i ulepszen.
+40753	Zdobywaj punkty strategiczne za pomocą oddziałów piechoty, by pozyskiwać punkty rekwizycji. Są one głównym zasobem, zużywanym głównie na produkcję większości jednostek i budynków.
+40754	Zasób Orków
+40755	Buduj Sztandary Waaagh!, by zwiększyć Zasób Orków. Są one zużywane głównie na tworzenie jednostek Orków. Liczba jednostek oraz ilość Zasobów Orków składają się na liczebność armii. Im jest ona większa, tym więcej dostępnych jednostek i ulepszeń.
 40756	Limit jednostek
-40757	Okresla maksymalna liczbe jednostek piechoty. Mozesz go podniesc opracowujac stosowne ulepszenia w Kwaterze Glownej (Kosmiczni Marines i Chaos) lub stawiajac dodatkowe Bramy Osnowy (Eldarzy) badz Sztandary Waaagh! (Orki).
-40758	Limit pojazdow
-40759	Okresla maksymalna liczbe pojazdow. Mozesz go podniesc opracowujac stosowne ulepszenia w Kwaterze Glownej (Kosmiczni Marines i Chaos) lub stawiajac dodatkowe Bramy Osnowy (Eldarzy) badz Sztandary Waaagh! (Orki).
-40760	Limit Orkow
-40761	Okresla mozliwosci w produkcji jednostek Orkow. Im ta liczba jest wyzsza, tym wiecej masz do swojej dyspozycji orczych jednostek, pojazdow i ulepszen.
+40757	Określa maksymalną liczbę jednostek piechoty. Możesz go podnieść opracowując stosowne ulepszenia w Kwaterze Głównej (Kosmiczni Marines i Chaos) lub stawiając dodatkowe Bramy Osnowy (Eldarzy) bądź Sztandary Waaagh! (Orki).
+40758	Limit pojazdów
+40759	Określa maksymalną liczbę pojazdów. Możesz go podnieść opracowując stosowne ulepszenia w Kwaterze Głównej (Kosmiczni Marines i Chaos) lub stawiając dodatkowe Bramy Osnowy (Eldarzy) bądź Sztandary Waaagh! (Orki).
+40760	Limit Orków
+40761	Określa możliwości w produkcji jednostek Orków. Im ta liczba jest wyższa, tym więcej masz do swojej dyspozycji orczych jednostek, pojazdów i ulepszeń.
 40762	Waaagh!
-40763	Wartosc Waaagh! zwieksza sie w miare wzrostu ilosci Orczych Zasobow i liczby Orkow. Na kazdym poziomie Waaagh! dostepne sa kolejne jednostki oraz ulepszenia.
+40763	Wartość Waaagh! zwiększa się w miarę wzrostu ilości Orczych Zasobów i liczby Orków. Na każdym poziomie Waaagh! dostępne są kolejne jednostki oraz ulepszenia.
 40770	Kontrolowane punkty strategiczne
-40771	Twoja druzyna moze osiagnac zwyciestwo, jesli bedzie nieprzerwanie kontrolowac ponad 66% punktow strategicznych przez 8 minut. Pierwsza liczba okresla liczbe kontrolowanych punktow strategicznych, druga - liczbe wszystkich punktow, trzecia - procent punktow kontrolowanych przez twoja druzyne.
+40771	Twoja drużyna może osiagnac zwycięstwo, jeśli będzie nieprzerwanie kontrolować ponad 66% punktów strategicznych przez 8 minut. Pierwsza liczba określa liczbę kontrolowanych punktów strategicznych, druga - liczbę wszystkich punktów, trzecia - procent punktów kontrolowanych przez twoja drużynę.
 40772	Kontrolowane pozycje kluczowe
-40773	Twoja druzyna moze osiagnac zwyciestwo, jesli bedzie nieprzerwanie kontrolowac ponad 50% Pozycji Kluczowych przez 8 minut. Pierwsza liczba okresla liczbe kontrolowanych Pozycji Kluczowych, druga - liczbe wszystkich Pozycji, trzecia - procent Pozycji kontrolowanych przez twoja druzyne.
+40773	Twoja drużyna może osiągnąć zwycięstwo, jeśli będzie nieprzerwanie kontrolować ponad 50% Pozycji Kluczowych przez 8 minut. Pierwsza liczba określa liczbę kontrolowanych Pozycji Kluczowych, druga - liczbę wszystkich Pozycji, trzecia - procent Pozycji kontrolowanych przez twoja drużynę.
 40774	Kontrolowane Relikty
-40775	Relikty sa przedmiotami, ktore musisz kontrolowac, aby uzyskac dostep do najbardziej zaawansowanych jednostek. Wystarczy, ze bedziesz mial w swoim posiadaniu jeden z nich. Pierwsza liczba okresla liczbe kontrolowanych Reliktow, druga - liczbe wszystkich dostepnych Reliktow.
-40780	Interfejs druzynowy
-40781	Kliknij LPM, aby wlaczyc interfejs druzynowy. Pokazuje on liczbe punktow strategicznych i pozycji kluczowych kontrolowanych przez twoja druzyne.
+40775	Relikty sa przedmiotami, które musisz kontrolować, aby uzyskać dostęp do najbardziej zaawansowanych jednostek. Wystarczy, że będziesz miał w swoim posiadaniu jeden z nich. Pierwsza liczba określa liczbę kontrolowanych Reliktów, druga - liczbę wszystkich dostępnych Reliktów.
+40780	Interfejs drużynowy
+40781	Kliknij LPM, aby włączyć interfejs drużynowy. Pokazuję on liczbę punktów strategicznych i pozycji kluczowych kontrolowanych przez twoja drużynę.
 40782	Interfejs osobisty
-40783	Kliknij LPM, aby wlaczyc interfejs osobisty. Pokazuje on liczbe punktow strategicznych i pozycji kluczowych kontrolowanych wylacznie przez ciebie.
+40783	Kliknij LPM, aby włączyć interfejs osobisty. Pokazuję on liczbę punktów strategicznych i pozycji kluczowych kontrolowanych wyłącznie przez ciebie.
 40800	Menu pauzy
-40801	Opcje, zapis i wczytanie gry oraz wyjscie z programu.
-40802	Menu zadan
-40803	Kliknij LPM, aby wyswietlic menu zadan. Zawiera ono informacje dotyczace wszystkich celow misji.
+40801	Opcje, zapis i wczytanie gry oraz wyjście z programu.
+40802	Menu zadań
+40803	Kliknij LPM, aby wyświetlić menu zadań. Zawiera ono informację dotyczące wszystkich celów misji.
 40804	Menu dyplomacji
-40805	Kliknij LPM, aby wyswietlic menu dyplomacji. Pozwala ono na zawieranie sojuszy oraz wymiane zasobow pomiedzy graczami.
+40805	Kliknij LPM, aby wyświetlić menu dyplomacji. Pozwala ono na zawieranie sojuszy oraz wymianę zasobów pomiędzy graczami.
 40806	Czat
-40807	Kliknij LPM, aby wyslac informacje tekstowa do wszystkich graczy. Kliknij PPM, aby wyslac informacje wylacznie do czlonkow wlasnej druzyny
+40807	Kliknij LPM, aby wysłać informację tekstową do wszystkich graczy. Kliknij PPM, aby wysłać informację wyłącznie do członków własnej drużyny
 40808	Historia rozmowy
-40809	Kliknij LPM, aby wlaczyc lub wylaczyc historie rozmowy.
-40850	Wroc
-40851	Kliknij LPM, aby wrocic do poprzedniej opcji.
+40809	Kliknij LPM, aby włączyć lub wyłączyć historię rozmowy.
+40850	Wróć
+40851	Kliknij LPM, aby wrócić do poprzedniej opcji.
 40852	Anuluj
-40853	Kliknij LPM, aby anulowac te opcje.
+40853	Kliknij LPM, aby anulować te opcje.
 40854	Ok
 40855	Kliknij LPM, aby wybrac te opcje.
 40875	Ustaw punkt zborny
-40876	Kliknij LPM na wybranym miejscu, aby jednostki z danego budynku udawaly sie automatycznie w wyznaczone miejsce.
-40880	Wyladuj
-40881	Kliknij na tym przycisku, by wyladowac wszystkie jednostki z pojazdu badz budynku.
+40876	Kliknij LPM na wybranym miejscu, aby jednostki z danego budynku udawały się automatycznie w wyznaczone miejsce.
+40880	Wyląduj
+40881	Kliknij na tym przycisku, by wylądować wszystkie jednostki z pojazdu bądź budynku.
 40884	Naprawa
-40885	Kliknij LPM na tym przycisku a nastepnie na budynku lub pojezdzie, aby rozpoczac jego naprawe.
+40885	Kliknij LPM na tym przycisku, a następnie na budynku lub pojeździe, aby rozpocząć jego naprawę.
 40890	Desant
-40891	Wybierz miejsce znajdujace sie w zasiegu wzroku twoich jednostek, aby teleportowac tam pierwszy dostepny oddzial. Procedura ta zabiera pewna ilosc czasu. Desant wymaga tez okreslonej ilosci miejsca, w braku ktorego jednostka nie przybedzie na pole walki. Do przeprowadzenia desantu potrzebny jest Przekaznik Orbitalny.
+40891	Wybierz miejsce znajdujące się w zasięgu wzroku twoich jednostek, żeby teleportować tam pierwszy dostępny oddział. Procedura ta zabiera pewną ilość czasu. Desant wymaga też określonej ilości miejsca, w braku którego jednostka nie przybędzie na pole walki. Do przeprowadzenia desantu potrzebny jest Przekaźnik Orbitalny.
+
 40892	Wystrzel ladownik
 40893	Wybierz miejsce znajdujace sie w zasiegu wzroku twoich jednostek, aby desantowac pierwszy dostepny oddzial w wybrane miejsce. Procedura ta zabiera pewna ilosc czasu. Dodatkowo, desant wymaga okreslonej ilosci miejsca, w braku ktorego jednostka nie przybedzie na pole walki.
 40894	Przywolanie demonow
