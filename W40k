@@ -1,70 +1,60 @@
-35750	Zajmij punkt strategiczny, aby pozyskać zasoby.
-35751	Rozkaż jednostce zajęcie punktu strategicznego.
-35752	Zwerbuj Drużynę Taktyczną Kosmicznych Marines
-35753	Zwerbuj Serwitora Kosmicznych Marines
-35754	Stwórz Drednota Kosmicznych Marines.
-35755	Pozwala werbować piechotę.  Tymczasowo tworzy drednoty i pojazdy.
-35756	Wytwarza niewielkie ilości energii.  Można go umieścić w dowolnym punkcie.  Wymagany do budowy termogeneratora.
-35757	Wytwarza znaczne ilości energii.  Mozna go ustawić jedynie na osadach żużlowych.
-35758	Umieść ten budynek na punktach strategicznych, aby je obsadżić. Obsadzone punkty produkują więcej zasobów i chronią punkt przed przejęciem. Posterunki mogą być rozbudowywane, aby zwiekszyć szybkość pozyskiwania zasobów i siłe ognia.
-35759	Zbuduj Predatora Kosmicznych Marines.
-35760	Przeksztalc Twierdze w Klasztor
-35761	Przeksztalc Klasztor w Ufortyfikowany Klasztor
+35760	Przekształć Twierdze w Klasztor
+35761	Przekształć Klasztor w Ufortyfikowany Klasztor
 35762	Opracuj Uber Marines
-35763	Zwerbuj druzyne Szturmowych Kosmicznych Marines
+35763	Zwerbuj drużynę Szturmowych Kosmicznych Marines
 36001	Zajmij punkt strategiczny
-36002	Obsadz punkt strategiczny
-36003	Przeksztalc posterunek nasluchowy w bunkier. Bunkier posiada wiezyczki obronne i jest odporniejszy na ogien przeciwnika.
-36004	Przeksztalc bunkier w twierdze. Twierdza chroniona jest ciezkimi wiezyczkami i cechuje sie duza odpornoscia na ogien przeciwnika.
-36005	ODDZIALY SA ATAKOWANE
-36006	Twoje oddzialy sa atakowane.
+36002	Obsadź punkt strategiczny
+36003	Przekształć posterunek nasłuchowy w bunkier. Bunkier posiada wieżyczki obronne i jest odporniejszy na ogień przeciwnika.
+36004	Przekształć bunkier w twierdze. Twierdza chroniona jest ciężkimi wieżyczkami i cechuje sie dużą odpornością na ogień przeciwnika.
+36005	ODDZIALY SĄ ATAKOWANE
+36006	Twoje oddziały sa atakowane.
 36007	UWAGA!
-36008	%1PLAYERNAME% nie moze dostac sie do punktu %2STRATEGICPOINTNAME%.
-36009	%1PLAYERNAME% zdobywa %2STRATEGICPOINTNAME%! Produkcja punktow rekwizycji zwiekszona.
-36010	%1PLAYERNAME% zaczyna tracic %2STRATEGICPOINTNAME% na rzecz wroga! 
+36008	%1PLAYERNAME% nie może dostać się do punktu %2STRATEGICPOINTNAME%.
+36009	%1PLAYERNAME% zdobywa %2STRATEGICPOINTNAME%! Produkcja punktów rekwizycji zwiększona.
+36010	%1PLAYERNAME% zaczyna tracić %2STRATEGICPOINTNAME% na rzecz wroga! 
 36011	%1PLAYERNAME% traci %2STRATEGICPOINTNAME% na rzecz wroga! 
 36012	%1PLAYERNAME% przerywa zdobywanie %2STRATEGICPOINTNAME%. Zostanie on utracony.
-36013	Gracz %1PLAYERNAME% przerwal zdobywanie %2STRATEGICPOINTNAME%. Oddzial nie moze sie poruszyc, dopoki punkt nie zostanie w pelni zdobyty.
-36014	%1STRATEGICPOINTNAME% zostal calkowicie wyczerpany.
-36015	%1STRATEGICPOINTNAME% jest dla ciebie niedostepny.
-36016	Udalo ci sie zdobyc %1STRATEGICPOINTNAME%! Zdobywasz dodatkowe zasoby rekwizycji!
-36017	Wrog odbiera ci %1STRATEGICPOINTNAME%!
-36018	Wrog odebral ci %1STRATEGICPOINTNAME%!
-36019	Twoje oddzialy przerwaly zdobywanie lokacji %1STRATEGICPOINTNAME%. Zostanie ona utracona.
-36020	Twoje oddzialy przerwaly zdobywanie lokacji %1STRATEGICPOINTNAME%. Zolnierze nie moga sie poruszyc, dopoki punkt nie zostanie w pelni zdobyty.
-36021	Twoj sojusznik, %1PLAYERNAME%, zdobyl %2STRATEGICPOINTNAME%!
-36022	Twoj sojusznik, %1PLAYERNAME%, wlasnie traci %2STRATEGICPOINTNAME% na rzecz wroga!
-36023	Twoj sojusznik, %1PLAYERNAME%, stracil %2STRATEGICPOINTNAME% na rzecz wroga!
-36024	Twoj sojusznik, %1PLAYERNAME%, przerwal zdobywanie lokacji %2STRATEGICPOINTNAME%. Zostanie on utracony.
-36025	Twoj sojusznik, %1PLAYERNAME% nie zdolal zdobyc lokacji %2STRATEGICPOINTNAME%. Zolnierze nie moze sie poruszyc, dopoki punkt nie zostanie w pelni zdobyty.
-36026	Twoj przeciwnik, %1PLAYERNAME%, zdobyl %2STRATEGICPOINTNAME%!
+36013	Gracz %1PLAYERNAME% przerwał zdobywanie %2STRATEGICPOINTNAME%. Oddział nie może się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
+36014	%1STRATEGICPOINTNAME% został całkowicie wyczerpany.
+36015	%1STRATEGICPOINTNAME% jest dla ciebie niedostępny.
+36016	Udało ci się zdobyć %1STRATEGICPOINTNAME%! Zdobywasz dodatkowe zasoby rekwizycji!
+36017	Wróg odbiera ci %1STRATEGICPOINTNAME%!
+36018	Wróg odebrał ci %1STRATEGICPOINTNAME%!
+36019	Twoje oddziały przerwały zdobywanie lokacji %1STRATEGICPOINTNAME%. Zostanie ona utracona.
+36020	Twoje oddziały przerwały zdobywanie lokacji %1STRATEGICPOINTNAME%. Żołnierze nie mogą się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
+36021	Twój sojusznik, %1PLAYERNAME%, zdobył %2STRATEGICPOINTNAME%!
+36022	Twój sojusznik, %1PLAYERNAME%, właśnie traci %2STRATEGICPOINTNAME% na rzecz wroga!
+36023	Twój sojusznik, %1PLAYERNAME%, stracił %2STRATEGICPOINTNAME% na rzecz wroga!
+36024	Twój sojusznik, %1PLAYERNAME%, przerwał zdobywanie lokacji %2STRATEGICPOINTNAME%. Zostanie on utracony.
+36025	Twój sojusznik, %1PLAYERNAME% nie zdolał zdobyć lokacji %2STRATEGICPOINTNAME%. Żołnierze nie może się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
+36026	Twój przeciwnik, %1PLAYERNAME%, zdobył %2STRATEGICPOINTNAME%!
 37950	Pancerz
 37951	Budowniczy
 37952	Budynek
-37953	Dowodca
+37953	Dowódca
 37954	Piechota
-37955	Ciezka piechota
+37955	Ciężka piechota
 37956	Demon
 37957	Pojazd
 37958	Morale
 38000	Warhammer 40.000 - Dawn of War
 38005	Komputer %1PLAYERINDEX%
-38009	Dodaj dowodce: %1LEADERNAME%
-38010	Dodaje kolejnych czlonkow oddzialu (dostepni: %1NUMREINFORCEAVAILABLE%)
+38009	Dodaj dowódce: %1LEADERNAME%
+38010	Dodaje kolejnych członków oddziału (dostępni: %1NUMREINFORCEAVAILABLE%)
 38011	Ulepszenie: %1WEAPONNAME%
-38012	Ulepszenie: %1WEAPONNAME% (dostepne: %2NUMREINFORCEAVAILABLE%)
-38013	Neutralne - Brak wlasciciela
-38014	%1PLAYERNAME% - Druzyna %2TEAMNUM%
-38015	%1PLAYERNAME% - Sojusznik - Druzyna %2TEAMNUM%
-38016	%1PLAYERNAME% - Wrog - Druzyna %2TEAMNUM%
+38012	Ulepszenie: %1WEAPONNAME% (dostępne: %2NUMREINFORCEAVAILABLE%)
+38013	Neutralne - Brak właściciela
+38014	%1PLAYERNAME% - Drużyna %2TEAMNUM%
+38015	%1PLAYERNAME% - Sojusznik - Drużyna %2TEAMNUM%
+38016	%1PLAYERNAME% - Wróg - Drużyna %2TEAMNUM%
 38017	%1PLAYERNAME% - Sojusznik
 38018	%1PLAYERNAME% - Wróg
 38020	%1LEADERDESC%
-38021	Uzupelnij stan druzyny
+38021	Uzupełnij stan drużyny
 38022	%1WEAPONHELPTEXT%
 38025	%1MINHEALTH%/%2MAXHEALTH%
-38040	Kliknij PPM, aby zmienic rodzaj impulsu
-38042	Ogolny impuls
+38040	Kliknij PPM, aby zmienić rodzaj impulsu
+38042	Ogólny impuls
 38043	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
 38044	Impuls "Atakuj to miejsce"
 38045	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Dodatkowo wyswietla tez polecenie zaatakowania tego miejsca. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
