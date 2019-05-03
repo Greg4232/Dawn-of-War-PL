@@ -10,69 +10,25 @@
 36006	Twoje oddziały sa atakowane.
 36007	UWAGA!
 36008	%1PLAYERNAME% nie może dostać się do punktu %2STRATEGICPOINTNAME%.
-36009	%1PLAYERNAME% zdobywa %2STRATEGICPOINTNAME%! Produkcja punktów rekwizycji zwiększona.
-36010	%1PLAYERNAME% zaczyna tracić %2STRATEGICPOINTNAME% na rzecz wroga! 
-36011	%1PLAYERNAME% traci %2STRATEGICPOINTNAME% na rzecz wroga! 
-36012	%1PLAYERNAME% przerywa zdobywanie %2STRATEGICPOINTNAME%. Zostanie on utracony.
-36013	Gracz %1PLAYERNAME% przerwał zdobywanie %2STRATEGICPOINTNAME%. Oddział nie może się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
-36014	%1STRATEGICPOINTNAME% został całkowicie wyczerpany.
-36015	%1STRATEGICPOINTNAME% jest dla ciebie niedostępny.
-36016	Udało ci się zdobyć %1STRATEGICPOINTNAME%! Zdobywasz dodatkowe zasoby rekwizycji!
-36017	Wróg odbiera ci %1STRATEGICPOINTNAME%!
-36018	Wróg odebrał ci %1STRATEGICPOINTNAME%!
-36019	Twoje oddziały przerwały zdobywanie lokacji %1STRATEGICPOINTNAME%. Zostanie ona utracona.
-36020	Twoje oddziały przerwały zdobywanie lokacji %1STRATEGICPOINTNAME%. Żołnierze nie mogą się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
-36021	Twój sojusznik, %1PLAYERNAME%, zdobył %2STRATEGICPOINTNAME%!
-36022	Twój sojusznik, %1PLAYERNAME%, właśnie traci %2STRATEGICPOINTNAME% na rzecz wroga!
-36023	Twój sojusznik, %1PLAYERNAME%, stracił %2STRATEGICPOINTNAME% na rzecz wroga!
-36024	Twój sojusznik, %1PLAYERNAME%, przerwał zdobywanie lokacji %2STRATEGICPOINTNAME%. Zostanie on utracony.
-36025	Twój sojusznik, %1PLAYERNAME% nie zdolał zdobyć lokacji %2STRATEGICPOINTNAME%. Żołnierze nie może się poruszyć, dopóki punkt nie zostanie w pełni zdobyty.
-36026	Twój przeciwnik, %1PLAYERNAME%, zdobył %2STRATEGICPOINTNAME%!
-37950	Pancerz
-37951	Budowniczy
-37952	Budynek
-37953	Dowódca
-37954	Piechota
-37955	Ciężka piechota
-37956	Demon
-37957	Pojazd
-37958	Morale
-38000	Warhammer 40.000 - Dawn of War
-38005	Komputer %1PLAYERINDEX%
-38009	Dodaj dowódce: %1LEADERNAME%
-38010	Dodaje kolejnych członków oddziału (dostępni: %1NUMREINFORCEAVAILABLE%)
-38011	Ulepszenie: %1WEAPONNAME%
-38012	Ulepszenie: %1WEAPONNAME% (dostępne: %2NUMREINFORCEAVAILABLE%)
-38013	Neutralne - Brak właściciela
-38014	%1PLAYERNAME% - Drużyna %2TEAMNUM%
-38015	%1PLAYERNAME% - Sojusznik - Drużyna %2TEAMNUM%
-38016	%1PLAYERNAME% - Wróg - Drużyna %2TEAMNUM%
-38017	%1PLAYERNAME% - Sojusznik
-38018	%1PLAYERNAME% - Wróg
-38020	%1LEADERDESC%
-38021	Uzupełnij stan drużyny
-38022	%1WEAPONHELPTEXT%
-38025	%1MINHEALTH%/%2MAXHEALTH%
-38040	Kliknij PPM, aby zmienić rodzaj impulsu
-38042	Ogólny impuls
-38043	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
+36009	%1PLAYERNAME% zdobywa %2STRATEGICPOINTNAME%! Produkcja pun
+38043	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glównym. Dzięki temu wyślesz impuls, który będą mogli zobaczyć wszyscy gracze bądź tylko członkowie twojej drużyny. Odbiorców impulsu definiuje się za pomocą przycisku ustawień impulsu (obok).
 38044	Impuls "Atakuj to miejsce"
-38045	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Dodatkowo wyswietla tez polecenie zaatakowania tego miejsca. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
+38045	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzięki temu wyślesz impuls, który będą mogli zobaczyć wszyscy gracze bądź tylko członkowie twojej drużyny. Dodatkowo wyświetla też polecenie zaatakowania tego miejsca. Odbiorców impulsu definiuje się za pomoca przycisku ustawień impulsu (obok).
 38046	Impuls "Bron tego miejsca"
-38047	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Dodatkowo wyswietla tez polecenie obrony tego miejsca. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
+38047	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzięki temu wyślesz impuls, który będą mogli zobaczyć wszyscy gracze bądź tylko członkowie twojej drużyny. Dodatkowo wyświetla też polecenie obrony tego miejsca. Odbiorców impulsu definiuje się za pomoca przycisku ustawień impulsu (obok).
 38048	Impuls "Zasoby"
-38049	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Dodatkowo wyswietla tez polecenie zdobycia zasobow znajdujacych sie w tym miejscu. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
+38049	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzięki temu wyślesz impuls, który będą mogli zobaczyć wszyscy gracze bądź tylko członkowie twojej drużyny. Dodatkowo wyświetla też polecenie zdobycia zasobów znajdujacych się w tym miejscu. Odbiorców impulsu definiuje się za pomocą przycisku ustawień impulsu (obok).
 38050	Impuls "Zajmij punkt"
-38051	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glownym. Dzieki temu wyslesz impuls, ktory beda mogli zobaczyc wszyscy gracze badz tylko czlonkowie twojej druzyny. Dodatkowo wyswietla tez polecenie zajecia tego miejsca. Odbiorcow impulsu definiuje sie za pomoca przycisku ustawien impulsu (obok).
-38060	Wyslij impulsy do druzyny
-38061	Wszystkie impulsy beda wysylane wylacznie do czlonkow wlasnej druzyny. Impulsy to sygnaly wskazujace innym graczom okreslane miejsca. Mozna je wyslac klikajac na przycisku impulsu.
-38062	Wyslij impulsy do wszystkich
-38063	Wszystkie impulsy beda wysylane do wszystkich graczy. Impulsy to sygnaly wskazujace innym graczom okreslane miejsca. Mozna je wyslac klikajac na przycisku impulsu.
+38051	Kliknij LPM i wybierz miejsce na minimapie lub na ekranie glównym. Dzięki temu wyślesz impuls, który będą mogli zobaczyć wszyscy gracze bądź tylko członkowie twojej drużyny. Dodatkowo wyświetla też polecenie zajęcia tego miejsca. Odbiorców impulsu definiuje się za pomoca przycisku ustawień impulsu (obok).
+38060	Wyślij impulsy do drużyny
+38061	Wszystkie impulsy będą wysyłane wyłącznie do członków własnej drużyny. Impulsy to sygnały wskazujące innym graczom określane miejsca. Można je wysłać klikając na przycisku impulsu.
+38062	Wyślij impulsy do Wszystkich
+38063	Wszystkie impulsy będą wysyłane do wszystkich graczy. Impulsy to sygnały wskazujące innym graczom określane miejsca. Można je wysłać klikajac na przycisku impulsu.
 38075	Zdobyto punkt %1STRATPOINTNAME%.
 38076	Limit %1NUM%
 38077	%1STRATPOINTNAME% Pop. Ork.
 38080	Gracz
-38081	Druzyna
+38081	Drużyna
 38085	%1PROGRESS%%%
 38086	nie dotyczy
 38090	%1MIN%-%2MAX%
@@ -81,7 +37,7 @@
 38097	%1CURR%/%2MAX%
 38098	%1CURR%/%2MAX%
 38100	Wydobywaj zasoby tutaj.
-38101	Bron sie tutaj.
+38101	Broń sie tutaj.
 38102	Atakuj tutaj.
 38103	Zajmij to miejsce.
 38150	Wymagania: %1ITEM%
@@ -89,12 +45,12 @@
 38152	Wymagania: %1ITEM%, %2ITEM%, %3ITEM%
 38153	Wymagania: %1ITEM%, %2ITEM%, %3ITEM%, %4ITEM%...
 38250	%1HEALTHCURRENT%/%2HEALTHMAX%
-38251	Poziom badan %1RANK%
-38252	Skrot: %1HOTKEY%
+38251	Poziom badań %1RANK%
+38252	Skrót: %1HOTKEY%
 38253	%1ENTITYNAME% *tagged*
 38254	%1CURRENTPOP%/%2MAXPOP%
-38255	Osiagnieto limit jednostek piechoty. Mozesz go podniesc opracowujac stosowne ulepszenia w Kwaterze Glownej (Kosmiczni Marines i Chaos) lub stawiajac dodatkowe Bramy Osnowy (Eldarzy).
-38256	Postep %1PERCENT%%%
+38255	Osiągnięto limit jednostek piechoty. Mozesz go podnieść opracowując stosowne ulepszenia w Kwaterze Głównej (Kosmiczni Marines i Chaos) lub stawiając dodatkowe Bramy Osnowy (Eldarzy).
+38256	Postęp %1PERCENT%%%
 38257	%1RESOURCECURRENT%/+%2RESOURCERATE%
 38258	Trwa budowa - %1PERCENT%%%
 38259	Zebrane
@@ -104,26 +60,26 @@
 38267	Trwa ulepszanie - %1PERCENT%%%
 38268	%1HOURS%:%2MINUTES%:%3SECONDS%
 38269	Miejsce odrodzenia zajete
-38271	Osiagnieto limit pojazdow. Mozesz go podniesc opracowujac stosowne ulepszenia w Kwaterze Glownej (Kosmiczni Marines i Chaos) lub stawiajac dodatkowe Bramy Osnowy (Eldarzy).
-38272	Uzupelnianie %1PERCENT%%%
+38271	Osiągnięto limit pojazdów. Możesz go podnieść opracowując stosowne ulepszenia w Kwaterze Głównej (Kosmiczni Marines i Chaos) lub stawiając dodatkowe Bramy Osnowy (Eldarzy).
+38272	Uzupełnianie %1PERCENT%%%
 38274	Ulepszanie %1PERCENT%%%
 38275	%1STRATPOINTS%/%2STRATPOINTSTOTAL% (%3PERCENT%%%)
 38276	%1PERCENT%%%
 38277	Popul. maks.
-38278	Druzyna %1TEAMNAME%
+38278	Drużyna %1TEAMNAME%
 38280	Aktualnie wybrany
-38281	Kliknij LPM, aby wybrac
+38281	Kliknij LPM, aby wybrać
 38300	Wymagania: %1requirement%
 38301	Zbudowano %1Num% z %2Limit%
-38302	Osiagnieto limit %1Limit%
-38303	Zdolnosci: %1Ability1%
-38304	Zdolnosci: %1Ability1%, %2Ability2%
-38305	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%
-38306	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%
-38307	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%
-38308	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%
-38309	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%, %7Ability7%
-38310	Zdolnosci: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%, %7Ability7%, %8Ability8%
+38302	Osiągnięto limit %1Limit%
+38303	Zdolności: %1Ability1%
+38304	Zdolności: %1Ability1%, %2Ability2%
+38305	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%
+38306	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%
+38307	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%
+38308	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%
+38309	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%, %7Ability7%
+38310	Zdolności: %1Ability1%, %2Ability2%, %3Ability3%, %4Ability4%, %5Ability5%, %6Ability6%, %7Ability7%, %8Ability8%
 38320	Ulepsz: %1creature%
 38321	Gotowe ulepszenia: %1Upgrade1%
 38322	Gotowe ulepszenia: %1Upgrade1%, %2Upgrade2%
@@ -137,34 +93,35 @@
 38330	%1Number%%%
 38400	%1ABILITYNAME% (Uaktywnione)
 38401	%1ABILITYNAME% (Zdezaktywowane)
-38402	Druzyna %1TEAMNUM% Zwyciestwo - %2TIME%
-38403	Druzyna %1TEAMNUM% Zwyciestwo (%2PLAYERNAME%) - %3TIME%
-38410	Nie ma sensu sie nim zajmowac
-38411	Wciaz latwy, choc nie tak nudny
-38412	Z zalozenia nie masz szans
+38402	Drużyna %1TEAMNUM% Zwycięstwo - %2TIME%
+38403	Drużyna %1TEAMNUM% Zwycięstwo (%2PLAYERNAME%) - %3TIME%
+38410	Nie ma sensu się nim zajmować
+38411	Wciąż łatwy, choć nie tak nudny
+38412	Z założenia nie masz szans
 39250	ZADANIA :
 39251	ZADANIA DODATKOWE :
 39252	???
-39253	WYPELNIONE
-39254	NIEWYPELNIONE
+39253	WYPEŁNIONE
+39254	NIEWYPEŁNIONE
 39255	NIEUDANE
-39500	Kliknij LPM, aby wybrac ten budynek.
-39501	Kliknij LPM, aby wybrac ten oddzial.
-39502	Kliknij LPM, aby wybrac tego budowniczego.
-39503	Uzyj jednostek inzynieryjnych, aby skorzystac z tej puli punktow mocy.
-39504	Kliknij PPM, aby zaatakowac ten budynek!
-39505	Kliknij PPM, aby zaatakowac ten oddzial!
-39506	Kliknij PPM, aby rozpoczac naprawe tego budynku. Skierowanie do naprawy kilku budowniczych przyspieszy jej proces.
-39507	Kliknij PPM, aby zebrac punkty energii. Jesli Kwatera Glowna nie jest zbyt blisko, wybuduj w poblizu Warsztat, aby szybciej pozyskac energie.
-39508	Kliknij PPM, aby rozpoczac budowe tego budynku. Skierowanie do naprawy kilku budowniczych przyspieszy jej proces.
-39509	Kliknij PPM, aby uleczyc ten oddzial. Opcja ta dostepna jest dopiero po wynalezieniu leczenia.
-39513	Klikniecie LPM sprawi, ze oddzial przemiesci sie do wskazanego miejsca, atkujac wszystkie napotkane po drodze oddzialy i budynki wroga.
-39514	Kliknij LPM na oddziale wroga, by go zaznaczyc. Wszystko, co znajduje sie w polu widzenia zaznaczonego oddzialu bedzie widoczne rowniez dla ciebie. Budowniczowie moga zniwelowac dzialanie tej zdolnosci.
-39515	Kliknij LPM, by wydac rozkaz patrolowania. Oddzial patrolujacy bedzie poruszac sie pomiedzy jego aktualna pozycja a wskazanym miejscem. Mozesz wyznaczyc kilka punktow patrolowych trzymajac wcisniety klawisz SHIFT.
-39516	Kliknij LPM na budynku, jednostce lub miejscu, aby ich pilnowac.
-39517	Kliknij LPM, aby przemiescic swoja jednostke w to miejsce.  Przytrzymaj klawisz SHIFT, aby stworzyc wiecej punktow nawigacyjnych.
-39518	Kliknij LPM w wybranym miejscu, aby ustalic tam punkt zbiorki dla danego budynku.
+39500	Kliknij LPM, aby wybrać ten budynek.
+39501	Kliknij LPM, aby wybrać ten oddział.
+39502	Kliknij LPM, aby wybrać tego budowniczego.
+39503	Użyj jednostek inżynieryjnych, aby skorzystać z tej puli punktów mocy.
+39504	Kliknij PPM, aby zaatakować ten budynek!
+39505	Kliknij PPM, aby zaatakować ten oddział!
+39506	Kliknij PPM, aby rozpocząć naprawę tego budynku. Skierowanie do naprawy kilku budowniczych przyśpieszy jej proces.
+39507	Kliknij PPM, aby zebrać punkty energii. Jeśli Kwatera Glowna nie jest zbyt blisko, wybuduj w pobliżu Warsztat, aby szybciej pozyskać energię.
+39508	Kliknij PPM, aby rozpocząć budowę tego budynku. Skierowanie do naprawy kilku budowniczych przyśpieszy jej proces.
+39509	Kliknij PPM, aby uleczyć ten oddział. Opcja ta dostępna jest dopiero po wynalezieniu leczenia.
+39513	Kliknięcie LPM sprawi, że oddział przemieści się do wskazanego miejsca, atakując wszystkie napotkane po drodze oddziały i budynki wroga.
+39514	Kliknij LPM na oddziale wroga, by go zaznaczyć. Wszystko, co znajduje sie w polu widzenia zaznaczonego oddzialu bedzie widoczne rowniez dla ciebie. Budowniczowie moga zniwelowac dzialanie tej zdolnosci.
+39515	Kliknij LPM, by wydać rozkaz patrolowania. Oddział patrolujący będzie poruszać się pomiędzy jego aktualną pozycją, a wskazanym miejscem. Możesz wyznaczyć kilka punktów patrolowych trzymając wyciśnięty klawisz SHIFT.
+39516	Kliknij LPM na budynku, jednostce lub miejscu, aby ich pilnować.
+39517	Kliknij LPM, aby przemieścić swoja jednostke w to miejsce.  Przytrzymaj klawisz SHIFT, aby stworzyć więcej punktów nawigacyjnych.
+39518	Kliknij LPM w wybranym miejscu, aby ustalić tam punkt zbiórki dla danego budynku.
 39535	GrupaSkrotow
+
 39536	Laczy zaznaczone budynki lub jednostki w grupy, ktore mozna wywolywac pozniej. Kliknij PPM, aby stworzyc nowa grupe. Kliknij LPM, by zaznaczyc utworzona uprzednio grupe. Kliknij dwukrotnie, aby wycentrowac obraz na zaznaczonej grupie. Wcisniecie CTRL+U rozwiazuje grupe.
 39537	Ekran Mini-Mapy
 39538	Widok taktyczny calej mapy z lotu ptaka.  Obszary, ktorych nie widzisz zaznaczone sa na szaro.
