@@ -2780,36 +2780,37 @@
 209532	Klan Szabrowcow
 209533	Tartarusjanskie Sily Obronne Alfa
 209534	Neutralna 3 komp. Krwawych Krukow
-209550	Misja 1 – Poczatek misji
-209552	Misja 1 – Baza glowna zalozona
-209554	Misja 1 – Pierwszy oboz Orkow zniszczony
-209556	Misja 1 – Gwardzisci ocaleni
-209558	Misja 1 – Drugi oboz Orkow zniszczony
-210000	W tym obszarze roi sie od Orkow. Musimy aktywowac nasza zdolnosc Infiltracji, aby sie przekrasc obok nich. Nie podchodzmy zbyt blisko, bo moga nas wykryc. 
-210005	Kto atakuje! Ukryte czlowieki, tera was widzimy!
-210007	Arrgh! Trzeba nam wiencej Orkow! Odwrot!
-210009	Nedzni Xenos bronia punktu strategicznego. Bron drugiej Druzyny Zwiadowcow zostala ulepszona do Karabinow Snajperskich. Dzieki nim szybko sie uporamy z tymi Orkami. 
-210015	Odwrot! Czlowieki walczom za dobrze!!!
-210020	Tam jest patrol Orkow. Poczekajmy az przejda i dopiero pozniej sprobujemy sie przekrasc.
-210025	Oto nasz cel, olbrzymi orczy Burszuj, ktory wyglada na dowodce tej bandy. Jesli go zabijemy, to Morale Orkow znacznie sie obnizy.
-210027	Cholera! Szef otrupial! UCIEKAMY!!!
-210030	Zajmijmy te punkty strategiczne i zalozmy baze operacyjna.
-210032	Swietna robota! Udowodniliscie, ze jestescie prawdziwymi slugami Imperatora! Teraz, zanim zaczniemy ofensywe, zabezpieczcie to przejscie.
-210034	Porzuc proby z wykorzystaniem Infiltracji, my zajmiemy sie tymi Orkami. Tam gdzie zawodzi ciche podchodzenie, najlepiej sprawdza sie sila.
-210036	Dobra robota! Od teraz my zajmiemy sie reszta.
-210038	Dobra robota! Wodociagi sa pod nasza kontrola. Zanim wybijemy reszte Orkow, musimy zaczac budowe bazy.
-210045	Jest jeszcze jeden z Dowodcow Orkow! Zabij tego Burszuja zanim ucieknie.
-210050	Wyglada na to, ze to ostatni. Dziekujmy Imperatorowi, ze otoczyl nas tego dnia swoja opieka!
-210060	Uciekl. Prosmy Imperatora, aby wybaczyl nam te porazke.
-210070	Uwaga Bracia. Ten mechaniczny potwor to Rzeziblacha.
-210072	Jest zabojczy w walce wrecz, a jego pancerz odbija wiekszosc podstawowych pociskow.
-210074	Musimy sie wyposazyc w Wyrzutnie Rakiet, jesli mamy zniszczyc to paskudztwo.
-210076	Wyglada na to, ze w tym budynku produkowane sa piekielne orcze Rzeziblachy. Zniszczmy go zanim wyprodukuje wiecej tych maszyn. 
-210080	Dobra robota! Orczy Burszuj nie zyje. Reszta zajmiemy sie sami.
-211000	Nie lubie tego skradania sie.
-211001	Oto wasze rozkazy, mozecie odejsc i niech Imperator ma was w swojej opiece!
-211002	Wiem przyjacielu. Zawsze wolales bezposrednie rozwiazania.
-211004	Mamy Gwardie Imperialna. Moze zamiast traktowac ich jak swiete krowy kazemy im walczyc? Jeslibysmy napotkali znaczne sily Orkow, to nie bylyby w stanie nam sie przeciwstawic.
+
+209550	Misja 1 – Początek misji
+209552	Misja 1 – Baza główna założona
+209554	Misja 1 – Pierwszy obóz Orków zniszczony
+209556	Misja 1 – Gwardziści ocaleni
+209558	Misja 1 – Drugi obóz Orków zniszczony
+210000	W tym obszarze roi się od Orków. Musimy aktywować naszą zdolność Infiltracji, aby się przekraść obok nich. Nie podchodzmy zbyt blisko, bo mogą nas wykryć. 
+210005	Kto atakuje! Ukryte człowieki, tera was widzimy!
+210007	Arrgh! Trzeba nam wiencej Orków! Odwrót!
+210009	Nędzni Xenos bronią punktu strategicznego. Broń drugiej Drużyny Zwiadowców została ulepszona do Karabinów Snajperskich. Dzięki nim szybko się uporamy z tymi Orkami. 
+210015	Odwrót! Człowieki walczom za dobrze!!!
+210020	Tam jest patrol Orków. Poczekajmy aż przejdą i dopiero później spróbujemy sie przekraść.
+210025	Oto nasz cel, olbrzymi orczy Burszuj, który wygląda na dowódce tej bandy. Jeśli go zabijemy, to Morale Orków znacznie się obniży.
+210027	Cholera! Szef otrupiał! UCIEKAMY!!!
+210030	Zajmijmy te punkty strategiczne i załóżmy bazę operacyjną.
+210032	Świetna robota! Udowodniliście, że jesteście prawdziwymi sługami Imperatora! Teraz, zanim zaczniemy ofensywę, zabezpieczcie to przejście.
+210034	Porzuć próby z wykorzystaniem Infiltracji, my zajmiemy się tymi Orkami. Tam gdzie zawodzi ciche podchodzenie, najlepiej sprawdza się siła.
+210036	Dobra robota! Od teraz my zajmiemy sie resztą.
+210038	Dobra robota! Wodociągi są pod naszą kontrolą. Zanim wybijemy resztę Orków, musimy zacząć budowę bazy.
+210045	Jest jeszcze jeden z Dowodców Orków! Zabij tego Burszuja zanim ucieknie.
+210050	Wygladą na to, że to ostatni. Dziękujmy Imperatorowi, że otoczyż nas tego dnia swoja opieką!
+210060	Uciekł. Prośmy Imperatora, aby wybaczył nam te porażkę.
+210070	Uwaga Bracia. Ten mechaniczny potwór to Rzeziblacha.
+210072	Jest zabójczy w walce wrecz, a jego pancerz odbija wiekszość podstawowych pocisków.
+210074	Musimy się wyposażyć w Wyrzutnie Rakiet, jeśli mamy zniszczyć to paskudztwo.
+210076	Wygladą na to, że w tym budynku produkowane sa piekielne orcze Rzeziblachy. Zniszczmy go zanim wyprodukuje więcej tych maszyn. 
+210080	Dobra robota! Orczy Burszuj nie żyje. Resztą zajmiemy sie sami.
+211000	Nie lubię tego skradania się.
+211001	Oto wasze rozkazy, możecie odejść i niech Imperator ma was w swojej opiece!
+211002	Wiem przyjacielu. Zawsze wolałeś bezpośrednie rozwiązania.
+211004	Mamy Gwardie Imperialną. Może zamiast traktować ich jak świete krowy każemy im walczyć? Jeślibyśmy napotkali znaczne siły Orków, to nie byłyby w stanie nam się przeciwstawić.
 211006	Z Orkami walczylismy juz setki razy. Oni zyja z wojny. Bezposredni szturm na obcych zwiekszylby pewnie ich morale i sciagnal nastepnych. Straty bylyby ogromne.
 211008	Co ma robic Gwardia Imperialna jesli nie umierac za Imperatora? Powinnismy sobie zostawic przynajmniej jeden regiment do naszej dyspozycji. Do tej pory otrzymalismy malo wsparcia. Nie chcemy, zeby nas uznali za nieostroznych.
 211010	My, stary przyjacielu? Czy ja?
