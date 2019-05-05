@@ -2624,9 +2624,10 @@
 100214	
 100215	
 100216	
-100250	Maly 
-100251	Sredni
-100252	Duzy
+
+100250	Mały 
+100251	Średni
+100252	Duży
 100301	Misja 1
 100302	Misja 2
 100303	Misja 3
@@ -2640,147 +2641,146 @@
 100311	Misja 11
 100450	Kampania Dawn of War
 100451	Kampania demonstracyjna na E3
-200001	Ladowanie na planecie
-200008	Ach, Orkowie wrocili. Nie okazujcie im litosci!
-200009	Zielonoskorym wydaje sie, ze potrafia biegac? Za nimi, Bracia! Zabijcie wszystkich!
-200010	Nasze modlitwy zostaly wysluchane! Nadchodza Kosmiczni Marines!
-200110	Zajmij punkt strategiczny i nie pozwol, zeby odebrali ci go Orkowie. Kiedy bedziemy kontrolowali wystarczajaco duzo punktow strategicznych, to przepedzimy Orkow z tego obszaru.
-200112	Musimy zdobyc kontrole nad polem bitwy. Dokonamy tego zajmujac wiekszosc punktow strategicznych.
-200115	Ci imperialni Gwardzisci wygladaja jakby potrzebowali wsparcia. Naprzod Bracia, pospieszcie sie!
+200001	Lądowanie na planecie
+200008	Ach, Orkowie wrócili. Nie okazujcie im litości!
+200009	Zielonoskórym wydaje się, że potrafią biegać? Za nimi, Bracia! Zabijcie wszystkich!
+200010	Nasze modlitwy zostały wysłuchane! Nadchodzą Kosmiczni Marines!
+200110	Zajmij punkt strategiczny i nie pozwól, żeby odebrali ci go Orkowie. Kiedy będziemy kontrolowali wystarczająco dużo punktów strategicznych, to przepędzimy Orków z tego obszaru.
+200112	Musimy zdobyć kontrolę nad polem bitwy. Dokonamy tego zajmując wiekszość punktów strategicznych.
+200115	Ci imperialni Gwardzisci wygladają jakby potrzebowali wsparcia. Naprzód Bracia, pośpieszcie się!
 200120	Uwaga! To zasadzka!
-200125	Patrzcie! Oboz Orkow!
-200127	Patrzcie tam... wyrwa w murze obronnym portu kosmicznego! Musieli uzyc ladunkow wybuchowych.
-200129	Musimy zniszczyc ten oboz Orkow i inne, zbudowane przez te wstretne istoty.
-200150	Tam, to juz ostatni. Dobra robota, Krwawe Kruki... Zwyciestwo jest nasze!
-200190	Doskonale! Ten oboz Orkow zostal zniszczony.
-200200	Znakomicie! Twierdza zostala ukonczona. Musimy teraz pomyslec o utworzeniu odpowiedniej bazy na pierwszej linii frontu.
-200202	Jakiz to wspanialy dzien na bitwe! Musimy postepowac ostroznie, kiedy Twierdza, nasza kwatera glowna na pierwszej linii frontu, jest jeszcze montowana. 
-201002	UTRZYMAC LINIE! NA IMPERATORA, BADZCIE DZIELNI!!!
-201004	Tchorze.
-201006	Bedziecie walczyli lub zginiecie.
-201008	Jestem Kapitan Gabriel Angelos, z 3 Kompani Krwawych Krukow. Meldujcie!
-201010	Panie, wybaczcie. Zrobilismy wszystko, zeby powstrzymac tych Orkow, ale nam sie nie udalo. Zycie moich podkomendnych oddaje w wasze rece.
-201012	Stawiliscie czola wrogom Imperatora, spelniliscie swoj obowiazek. Jesli zawiedli wasi ludzie, to ich osad nalezy do waszych kompetencji.
-201014	Dzieki, moj Panie.
-201016	Nie przybylem tu by odbierac podziekowania. Musimy utrzymac port, jesli chcemy dostarczyc na planete zolnierzy i zaopatrzenie. Dlatego tu jestesmy. Co z rannymi i cywilami?
-201018	Wpadlismy w klopoty. Zostalo nam malo statkow.
-201020	W takim razie bedziecie mieli wiecej.
-201022	Do wszystkich lotow Krwawych Krukow, wykonac protokol 23 i rozpoczac ewakuacje cywilow. Ponaglimy sily ladowe.
-201026	Sily ladowe, Panie? Ale Orkowie sie wycofali.
-201028	Pulkowniku, zeby pokonac przeciwnika, trzeba go znac. Orkowie wycofuja sie tylko po to, by sie przegrupowac. Beda atakowac do konca. Waszego lub ich. 
+200125	Patrzcie! Obóz Orków!
+200127	Patrzcie tam... wyrwa w murze obronnym portu kosmicznego! Musieli użyć ładunków wybuchowych.
+200129	Musimy zniszczyć ten obóz Orków i inne, zbudowane przez te wstrętne istoty.
+200150	Tam, to już ostatni. Dobra robota, Krwawe Kruki... Zwycięstwo jest nasze!
+200190	Doskonale! Ten obóz Orków został zniszczony.
+200200	Znakomicie! Twierdza została ukończona. Musimy teraz pomysleć o utworzeniu odpowiedniej bazy na pierwszej linii frontu.
+200202	Jakiż to wspaniały dzień na bitwe! Musimy postępować ostrożnie, kiedy Twierdza, nasza kwatera główna na pierwszej linii frontu, jest jeszcze montowana. 
+201002	UTRZYMAĆ LINIĘ! ZA IMPERATORA, BĄDZCIE DZIELNI!!!
+201004	Tchórze.
+201006	Będziecie walczyli lub zginiecie.
+201008	Jestem Kapitan Gabriel Angelos, z 3 Kompani Krwawych Kruków. Meldujcie!
+201010	Panie, wybaczcie. Zrobiliśmy wszystko, żeby powstrzymać tych Orków, ale nam się nie udało. Życie moich podkomendnych oddaje w wasze ręce.
+201012	Stawiliście czoła wrogom Imperatora, spełniliście swój obowiązek. Jeśli zawiedli wasi ludzie, to ich osąd należy do waszych kompetencji.
+201014	Dziękuję, mój Panie.
+201016	Nie przybyłem tu by odbierać podziękowania. Musimy utrzymać port, jeśli chcemy dostarczyć na planetę żolnierzy i zaopatrzenie. Dlatego tu jesteśmy. Co z rannymi i cywilami?
+201018	Wpadliśmy w kłopoty. Zostało nam mało statków.
+201020	W takim razie będziecie mieli więcej.
+201022	Do wszystkich lotów Krwawych Kruków, wykonać protokół 23 i rozpocząć ewakuację cywilów. Ponaglimy siły lądowe.
+201026	Siły lądowe, Panie? Ale Orkowie się wycofali.
+201028	Pułkowniku, zeby pokonać przeciwnika, trzeba go znać. Orkowie wycofują się tylko po to, by się przegrupować. Będą atakować do końca. Waszego lub ich. 
 201030	Bracia! Zniszczmy to obce plugastwo!
-208000	Odnajdz pierwszy oboz Orkow
-208001	Odnajdz pierwszy oboz, z ktorego Orkowie przeprowadzaja ataki. Szukaj orczych odpadow i podazaj za nimi do zrodla.
+208000	Odnajdź pierwszy obóz Orków
+208001	Odnajdź pierwszy obóz, z którego Orkowie przeprowadzają ataki. Szukaj orczych odpadów i podążaj za nimi do źródła.
 208002	
-208003	Nadszedl czas na odszukanie miejsca skad przychodza Orkowie. Gdzies posrod murow tego imperialnego kompleksu musza miec baze... Ale gdzie?
-208004	Ach, tak! Tak jak przypuszczalem... maly oboz Orkow. Zrownac go z ziemia!
-208005	Zaloz baze
-208006	Kaz Serwitorom rozpoczac budowe podstawowych budynkow bazy. Beda ci potrzebne Klasztorne Koszary do werbowania nowych Druzyn Kosmicznych Marines, Zbrojownia do wyposazenia Druzyn Kosmicznych Marines w specjalne bronie oraz Generator Plazmowy, zaopatrujacy w energie - drugi z zasobow.
+208003	Nadszedł czas na odszukanie miejsca skąd przychodzą Orkowie. Gdzieś posród murów tego imperialnego kompleksu muszą mieć bazę... Ale gdzie?
+208004	Ach, tak! Tak jak przypuszczałem... mały obóz Orków. Zrównać go z ziemią!
+208005	Załóż bazę
+208006	Każ Serwitorom rozpocząć budowę podstawowych budynków bazy. Bedą ci potrzebne Klasztorne Koszary do werbowania nowych Drużyn Kosmicznych Marines, Zbrojownia do wyposażenia Drużyn Kosmicznych Marines w specjalne bronie oraz Generator Plazmowy, zaopatrujący w energię - drugi z zasobów.
 208007	
 208010	Zabezpiecz Port Kosmiczny
-208011	Aby zdobyc kontrole nad polem bitwy, musisz zajac wszystkie punkty strategiczne. Odnajdz i zajmij wszystkie punkty strategiczne, nawet te kontrolowane teraz przez Orkow.
+208011	Aby zdobyć kontrolę nad polem bitwy, musisz zajać wszystkie punkty strategiczne. Odnajdź i zajmij wszystkie punkty strategiczne, nawet te kontrolowane teraz przez Orków.
 208012	
-208015	Ocal Sily Obronne Tartarusa
-208016	Sily Obronne Tartarusa, broniace portu kosmicznego, sa okrazone przez Orkow. Odnajdz Gwardzistow i pomoz im w walce. Liczy sie kazdy zolnierz! Nie pozwol by zgineli na darmo.
+208015	Ocal Siły Obronne Tartarusa
+208016	Siły Obronne Tartarusa, broniące portu kosmicznego, są okrążone przez Orków. Odnajdź Gwardzistów i pomoż im w walce. Liczy się każdy żołnierz! Nie pozwól by zgineli na darmo.
 208017	
-208020	Zniszcz obozowiska Orkow
-208021	Orkowie przeprowadzaja ataki z ufortyfikowanych obozowisk. Odnajdz i zniszcz wszystkie Obozy Orkow, ktore zagrazaja portowi kosmicznemu. Aby odnalezc wszystkie orcze Obozy, byc moze bedziesz musial zajrzec takze poza mury obronne.
+208020	Zniszcz obozowiska Orków
+208021	Orkowie przeprowadzają ataki z ufortyfikowanych obozowisk. Odnajdź i zniszcz wszystkie Obozy Orków, które zagrażają portowi kosmicznemu. Aby odnaleźć wszystkie orcze Obozy, być może będziesz musiał zajrzeć także poza mury obronne.
 208022	
-208023	Ten oboz Orkow byl zbyt maly by mogl byc glowna siedziba Hordy Orkow. Obcy musza miec w tej okolicy inne Obozy. Musimy je wszystkie odnalezc i  zniszczyc!
-208025	Oczysc Port
-208026	Orkowie opanowali kazdy zakamarek portu kosmicznego. Odnajdz i zniszcz cale to nedze, obce scierwo. Jak dlugo Obozy Orkow beda istnialy w obrebie portu, tak dlugo zielonoskorzy beda nas atakowali.
+208023	Ten oboz Orków był zbyt mały by mógł być główną siedzibą Hordy Orków. Obcy muszą mieć w tej okolicy inne Obozy. Musimy je wszystkie odnaleźć i  zniszczyć!
+208025	Oczyść Port
+208026	Orkowie opanowali każdy zakamarek portu kosmicznego. Odnajdź i zniszcz całe to nędzne, obce ścierwo. Jak długo Obozy Orków będą istniały w obrębie portu, tak długo zielonoskórzy będą nas atakowali.
 208027	
 208030	Zbuduj Klasztorne Koszary
-208031	Przy pomocy Serwitora zbuduj Klasztorne koszary. Kiedy beda gotowe, dadza ci dostep do Druzyn Kosmicznych Marines.
+208031	Przy pomocy Serwitora zbuduj Klasztorne koszary. Kiedy będą gotowe, dadzą ci dostęp do Drużyn Kosmicznych Marines.
 208032	
-208033	Pierwsza rzecz jakiej potrzebujemy to Klasztorne Koszary. Dzieki nim bedziemy mogli sprowadzic wiecej Druzyn Kosmicznych Marines.
-208034	Doskonale, Klasztorne Koszary zostaly ukonczone. Teraz mozesz zwerbowac wiecej Druzyn Kosmicznych Marines.
-208035	Zbuduj Zbrojownie
-208036	Przy pomocy Serwitora zbuduj Zbrojownie. Kiedy bedzie gotowa, Zbrojownia zapewni ci dostep do specjalnych broni.
+208033	Pierwsz rzecz jakiej potrzebujemy to Klasztorne Koszary. Dzięki nim będziemy mogli sprowadzić więcej Drużyn Kosmicznych Marines.
+208034	Doskonale, Klasztorne Koszary zostały ukończone. Teraz możesz zwerbować więcej Drużyn Kosmicznych Marines.
+208035	Zbuduj Zbrojownię
+208036	Przy pomocy Serwitora zbuduj Zbrojownię. Kiedy będzie gotowa, Zbrojownia zapewni ci dostęp do specjalnych broni.
 208037	
-208038	Jesli mamy pokonac tych Orkow, to musimy sprowadzic wiecej broni specjalnych. Musimy wybudowac Zbrojownie, aby miec do nich dostep.
-208039	Doskonale, Zbrojownia zaczela dzialac. Druzyny Kosmicznych Marines moga teraz ulepszyc swoje standardowe Boltery do Miotaczy Ognia i Ciezkich Bolterow.
-208040	Ulepsz Twierdze
-208041	Nadszedl czas na ulepszenie Twierdzy, twojej kwatery glownej. Jesli ulepszysz ja do Klasztoru, to otrzymasz dostep do lepszych broni i Dowodcow Druzyn dla Druzyn Kosmicznych Marines.
+208038	Jeśli mamy pokonać tych Orków, to musimy sprowadzić więcej broni specjalnych. Musimy wybudować Zbrojownię, aby mieć do nich dostęp.
+208039	Doskonale, Zbrojownia zaczeła działać. Drużyny Kosmicznych Marines mogą teraz ulepszyć swoje standardowe Boltery do Miotaczy Ognia i Ciężkich Bolterów.
+208040	Ulepsz Twierdzę
+208041	Nadszedł czas na ulepszenie Twierdzy, twojej kwatery głównej. Jeśli ulepszysz ją do Klasztoru, to otrzymasz dostęp do lepszych broni i Dowodców Drużyn dla Drużyn Kosmicznych Marines.
 208042	
-208043	Bedziemy potrzebowali czegos wiecej niz Ciezkich Bolterow, aby pokonac tych Orkow. Musimy ulepszyc Twierdze, zeby otrzymac dostep do narzedzi, dzieki ktorym zniszczymy te plage.
-208044	Klasztor jest gotowy! Sierzanci beda inspirowali twoje Druzyny Kosmicznych Marines do wiekszych aktow heroizmu, a Wyrzutnie Rakiet szybko sobie poradza z budynkami Orkow.
+208043	Będziemy potrzebowali czegoś więcej niż Ciężkich Bolterów, aby pokonać tych Orków. Musimy ulepszyć Twierdzę, żeby otrzymać dostęp do narzędzi, dzięki którym zniszczymy te plagę.
+208044	Klasztor jest gotowy! Sierżanci będą inspirowali twoje Drużyny Kosmicznych Marines do większych aktów heroizmu, a Wyrzutnie Rakiet szybko sobie poradzą z budynkami Orków.
 208045	Zbuduj Generator Plazmowy
-208046	Przy pomocy Serwitora zbuduj Generator Plazmowy. Generatory Plazmowe dostarczaja energii, ktorej potrzebujesz do specjalnych broni.
+208046	Przy pomocy Serwitora zbuduj Generator Plazmowy. Generatory Plazmowe dostarczają energii, której potrzebujesz do specjalnych broni.
 208047	
-208048	Nie mozemy zapomniec o Energii. Budowa Generatora Plazmowego zapewni nam Energie, ktorej potrzebujemy do dalszego rozwoju.
-208049	Generatory Plazmowe beda dostarczaly Energii ze stala predkoscia. Istnieje limit Generatorow Plazmowych, ktore mozna zbudowac na jedna Twierdze. 
-208050	Zdobadz punkt strategiczny
-208051	Uzyj Druzyny Kosmicznych Marines do zdobycia punktu strategicznego. Punkty strategiczne dostarczaja zasobow rekwizycji, fundamentu naszej ekonomii. Dzieki nim mozesz sprowadzic na pole bitwy wiecej budowli oraz Druzyn Marines.
+208048	Nie możemy zapomnieć o Energii. Budowa Generatora Plazmowego zapewni nam Energię, której potrzebujemy do dalszego rozwoju.
+208049	Generatory Plazmowe będą dostarczały Energii ze stała predkością. Istnieje limit Generatorów Plazmowych, które można zbudować na jedną Twierdzę. 
+208050	Zdobądź punkt strategiczny
+208051	Użyj Drużyny Kosmicznych Marines do zdobycia punktu strategicznego. Punkty strategiczne dostarczają zasobów rekwizycji, fundamentu naszej ekonomii. Dzięki nim możesz sprowadzić na pole bitwy więcej budowli oraz Drużyn Marines.
 208052	
-208053	Musimy zajac punkt strategiczny. Dzieki Punktom Strategicznym zdobywamy Rekwizycje, nasz podstawowy zasob, i demonstrujemy nasza kontrole nad polem bitwy.
-208054	Doskonale, zdobyles punkt strategiczny, dzieki czemu wzrosla ilosc zdobywanych przez nas Zasobow Rekwizycji. Na punkcie strategicznym, przy pomocy Serwitora, powinienes wybudowac Posterunek Nasluchowy, co go uchroni przed Orkami.
-208055	Zbuduj Posterunek Nasluchowy
-208056	Przy pomocy Serwitora zbuduj Posterunek Nasluchowy. Posterunki Nasluchowe sa sposobem zabezpieczania punktow strategicznych przed przejeciem ich przez przeciwnika oraz zwiekszaja ilosc rekwizycji generowana przez punkt.
+208053	Musimy zająć punkt strategiczny. Dzięki Punktom Strategicznym zdobywamy Rekwizycję, nasz podstawowy zasób, i demonstrujemy naszą kontrolę nad polem bitwy.
+208054	Doskonale, zdobyłeę punkt strategiczny, dzięki czemu wzrosła ilość zdobywanych przez nas Zasobów Rekwizycji. Na punkcie strategicznym, przy pomocy Serwitora, powinieneś wybudować Posterunek Nasłuchowy, co go uchroni przed Orkami.
+208055	Zbuduj Posterunek Nasłuchowy
+208056	Przy pomocy Serwitora zbuduj Posterunek Nasłuchowy. Posterunki Nasłuchowe są sposobem zabezpieczania punktów strategicznych przed przejęciem ich przez przeciwnika oraz zwiekszają ilość rekwizycji generowaną przez punkt.
 208057	
-208058	Teraz, kiedy punkt strategiczny jest nasz, musimy podjac pewne kroki, by upewnic sie, ze go nie stracimy. Kaz Serwitorowi wybudowac na punkcie Posterunek Nasluchowy, ktory bedzie go chronil.
-208059	Doskonale! Punkt jest teraz chroniony przed Orkami. Powinienes wybudowac Posterunki Nasluchowe na wszystkich zdobytych punktach.
-208060	Postepuj z rozwaga
-208061	W czasie kiedy Serwitorzy montuja Twierdze powinienes postepowac rozwaznie. W okolicy znajduja sie wrogie sily, przygotuj sie do starcia.
+208058	Teraz, kiedy punkt strategiczny jest nasz, musimy podjąć pewne kroki, by upewnić się, że go nie stracimy. Każ Serwitorowi wybudować na punkcie Posterunek Nasłuchowy, który będzie go chronił.
+208059	Doskonale! Punkt jest teraz chroniony przed Orkami. Powinieneś wybudować Posterunki Nasłuchowe na wszystkich zdobytych punktach.
+208060	Postępuj z rozwagą
+208061	W czasie kiedy Serwitorzy montuja Twierdzę powinieneś postępować rozważnie. W okolicy znajdują się wrogie siły, przygotuj się do starcia.
 208062	
-208070	Zdobadz punkt strategiczny
-208071	Uzyj druzyny Kosmicznych Marines do zdobycia trzeciego punktu strategicznego. Im wiecej punktow strategicznych kontrolujesz, tym wiecej zdobywasz zasobow rekwizycji. 
+208070	Zdobądź punkt strategiczny
+208071	Użyj drużyny Kosmicznych Marines do zdobycia trzeciego punktu strategicznego. Im więcej punktów strategicznych kontrolujesz, tym więcej zdobywasz zasobów rekwizycji. 
 208072	
-208073	Zdobadz ten punkt strategiczny przy pomocy Druzyny Kosmicznych Marines.
-208074	Doskonale! Punkt strategiczny jest nasz! Zwiekszyla sie ilosc zdobywanych przez nas Zasobow Rekwizycji. 
-208080	Zdobadz punkt strategiczny
-208081	Uzyj Druzyny Kosmicznych Marines do zdobycia trzeciego punktu strategicznego. Im wiecej punktow strategicznych kontrolujesz, tym wiecej zdobywasz zasobow rekwizycji.
+208073	Zdobądź ten punkt strategiczny przy pomocy Drużyny Kosmicznych Marines.
+208074	Doskonale! Punkt strategiczny jest nasz! Zwiekszyła się ilość zdobywanych przez nas Zasobów Rekwizycji. 
+208080	Zdobądź punkt strategiczny
+208081	Użyj drużyny Kosmicznych Marines do zdobycia trzeciego punktu strategicznego. Im więcej punktów strategicznych kontrolujesz, tym więcej zdobywasz zasobów rekwizycji. 
 208082	
-208083	Powinnismy zdobyc jeszcze jeden punkt strategiczny.
-208084	Dobra robota! Zdobylismy kilka punktow strategicznych. Zdobywanie punktow strategicznych i budowanie na nich Posterunkow Nasluchowych jest bardzo istotne dla dalszych sukcesow.
-208090	Zwerbuj nowa Druzyne Kosmicznych Marines
-208091	Udaj sie do Koszar Klasztornych i zwerbuj Druzyne Kosmicznych Marines. Druzyny Kosmicznych Marines sa potezne i wytrzymale, a dzieki badaniom moga zostac tak ulepszone, ze beda w stanie zmierzyc sie z kazdym przeciwnikiem. Moga takze zdobywac punkty strategiczne!
+208083	Powinniśmy zdobyć jeszcze jeden punkt strategiczny.
+208084	Dobra robota! Zdobyliśmy kilka punktów strategicznych. Zdobywanie punktów strategicznych i budowanie na nich Posterunków Nasłuchowych jest bardzo istotne dla dalszych sukcesów.
+208090	Zwerbuj nową Drużynę Kosmicznych Marines
+208091	Udaj się do Koszar Klasztornych i zwerbuj Drużynę Kosmicznych Marines. Drużyny Kosmicznych Marines są potężne i wytrzymałe, a dzięki badaniom mogą zostać tak ulepszone, że będą w stanie zmierzyć się z każdym przeciwnikiem. Mogą także zdobywać punkty strategiczne!
 208092	
-208093	Udaj sie do Koszar Klasztornych i zbuduj Druzyne Kosmicznych Marines. Ci elitarni wojownicy beda stanowili trzon twoich sil zbrojnych.
-208094	Znakomicie! Druzyny Kosmicznych Marines sa glownymi silami uderzeniowymi, uzbrojonymi po zeby i stworzonymi by walczyc. Druzyny Kosmicznych Marines tworza trzon twojej armii. Mozna je wyposazyc w specjalne bronie i uzupelnic o Dowodcow Druzyn. Pelnia one takze istotna role w zdobywaniu Zasobow Rekwizycji. 
-208100	Uzupelnij swoje Druzyny Kosmicznych Marines
-208101	Wybierz Druzyne Kosmicznych Marines. Na Pasku Zadan Druzyny Kosmicznych Marines uzyj Ikonki Uzupelniania i dodaj wiecej Jednostek do Druzyny. W ten sposob, Druzyny Kosmicznych Marines i inne rodzaje piechoty moga uzupelniac swoj stan liczbowy bedac w polu.
+208093	Udaj się do Koszar Klasztornych i zbuduj Drużynę Kosmicznych Marines. Ci elitarni wojownicy będą stanowili trzon twoich sił zbrojnych.
+208094	Znakomicie! Drużyny Kosmicznych Marines sa głównymi siłami uderzeniowymi, uzbrojonymi po zęby i stworzonymi by walczyć. Drużyny Kosmicznych Marines tworzą trzon twojej armii. Można je wyposażyć w specjalne bronie i uzupełnić o Dowodców Drużyn. Pełnią one także istotną rolę w zdobywaniu Zasobów Rekwizycji. 
+208100	Uzupełnij swoje Drużyny Kosmicznych Marines
+208101	Wybierz Drużynę Kosmicznych Marines. Na Pasku Zadań Drużyny Kosmicznych Marines użyj Ikonki Uzupełniania i dodaj więcej Jednostek do Drużyny. W ten sposób, Drużyny Kosmicznych Marines i inne rodzaje piechoty mogą uzupełniać swój stan liczbowy będąc w polu.
 208102	
-208103	Sprobuj Uzupelnic Druzyne Kosmicznych Marines. Uzyj Ikonki Uzupelniania znajdujacej sie na Pasku Zadan Druzyny Kosmicznych Marines i dodaj wiecej Jednostek do Druzyny. 
-208104	Doskonale! Mozemy teraz utrzymywac Druzyny Kosmicznych Marines w pelnej sile. Od teraz, kiedy Druzyna Kosmicznych Marines straci jakies Jednostki, mozesz wydac Punkty Rekwizycji i przywrocic ja do pelni sil.
-208110	Zdobadz 3 punkty strategiczne
-208111	Uzyj Druzyn Kosmicznych Marines do zdobycia 3 punktow strategicznych wskazywanych na Mini-mapie impulsami. Im wiecej punktow strategicznych masz pod kontrola, tym wiecej zdobywasz zasobow rekwizycji.
+208103	Spróbuj Uzupełnić Drużynę Kosmicznych Marines. Użyj Ikonki Uzupełniania znajdującej się na Pasku Zadań Drużyny Kosmicznych Marines i dodaj więcej Jednostek do Drużyny. 
+208104	Doskonale! Możemy teraz utrzymywać Drużyny Kosmicznych Marines w pełnej sile. Od teraz, kiedy Drużyna Kosmicznych Marines straci jakieś Jednostki, możesz wydać Punkty Rekwizycji i przywrócić ją do pełni sił.
+208110	Zdobądź 3 punkty strategiczne
+208111	Użyj Drużyn Kosmicznych Marines do zdobycia 3 punktów strategicznych wskazywanych na Mini-mapie impulsami. Im więcej punktów strategicznych masz pod kontrolą, tym więcej zdobywasz zasobów rekwizycji.
 208112	
-208113	Musimy zaczac zdobywac punkty strategiczne. Te 3 najblizsze punkty strategiczne na razie wystarcza. Zdobadzmy je w pierwszej kolejnosci, a pozniej zajmiemy sie kolejnymi.
-208114	Dobra robota! Zdobylismy kilka punktow strategicznych. Zdobywanie punktow strategicznych i budowanie na nich Posterunkow Nasluchowych daje nam wiecej punktow Rekwizycji, ktore mozemy pozniej uzyc do werbowania druzyn i produkcji ekwipunku.
-209000	Zostalem zaszczycony obecnoscia Kronikarza. Chcialbym wiedziec jak moi ludzie moga wam lepiej sluzyc.
+208113	Musimy zacząć zdobywać punkty strategiczne. Te 3 najbliższe punkty strategiczne na razie wystarczą. Zdobądźmy je w pierwszej kolejności, a później zajmiemy sie kolejnymi.
+208114	Dobra robota! Zdobyliśmy kilka punktów strategicznych. Zdobywanie punktów strategicznych i budowanie na nich Posterunków Nasłuchowych daje nam więcej punktów Rekwizycji, które możemy później użyć do werbowania drużyn i produkcji ekwipunku.
+209000	Zostałem zaszczycony obecnością Kronikarza. Chciałbym wiedzieć jak moi ludzie mogą wam lepiej slużyć.
 209002	Poczekaj.
-209004	Poczekajmy, az Kapitan skonczy swoje modly. Widzialem jak walczyliscie z Orkami, jestescie dzielnym czlowiekiem, Pulkowniku. Chcialbym moc powiedziec to samo o waszych ludziach.
-209006	Wzmocnie ich odwage, Panie.
-209008	Zobaczymy jakie beda efekty, jesli bedzie trzeba, to my sie tym zajmiemy.
-209010	Chcecie cos jeszcze powiedziec. Slucham, Pulkowniku.
-209012	Skad wiecie?
-209014	Wiem to nawet bez moich psionicznych "darow". Mowcie.
-209016	Czy to prawda, ze twoja kompania wytepila ostatnio herezje na planecie Cyrene? Przy pomocy Exterminatusa? Do ostatniego mezczyzny, kobiety i dziecka?
-209018	Pulkowniku, cieszy nas obecnosc waszej kompani, ale nie oczekujemy takich pytan. Nie pytajcie Kapitana o Cyrene, jesli chcecie sie cieszyc jego zaszczytami.
-209020	Bracie Kapitanie. Pulkownik oczekuje na audiencje.
-209022	Dziekuje, Isadorze.
-209024	Panie. Moj 37 Regiment Gwardii Imperialnej jest gotowy by ci sluzyc i bronic miasta. Chcielibysmy poprawic...
-209026	Beda mieli wiele okazji by udowodnic, ze sa wojownikami godnymi Imperatora. Krwawe Kruki opuszczaja miasto. Jego bezpieczenstwo znajduje sie teraz w twoich rekach. 
-209028	Przygotuje moich ludzi. Moge zapytac jakie sa wasze plany?
-209030	Orkowie czuja respekt tylko przed sila. Nalegam, aby pokazac im, ze nia dysponujemy. 
-209400	Jak to sie stalo, ze Orkowie przedarli sie przez pozycje obronne tak szybko? Dowiedz sie jak Orkowie zdolali tego dokonac i wyeliminuj zagrozenie. Beda mieli wiele okazji by udowodnic, ze sa wojownikami godnymi Imperatora. Krwawe Kruki opuszczaja miasto. Jego bezpieczenstwo znajduje sie teraz w twoich rekach. Orkowie czuja respekt tylko przed sila, nalegam, aby pokazac im, ze nia dysponujemy. Jak dlugo Orkowie beda mieli obozowiska w poblizu portu, tak dlugo bedziemy nekani ich atakami.
+209004	Poczekajmy, aą Kapitan skończy swoje modły. Widziałem jak walczyliście z Orkami, jesteście dzielnym człowiekiem, Pułkowniku. Chciałbym móc powiedzieć to samo o waszych ludziach.
+209006	Wzmocnię ich odwagę, Panie.
+209008	Zobaczymy jakie będą efekty, jeśli będzie trzeba, to my się tym zajmiemy.
+209010	Chcecie coś jeszcze powiedzieć. Słucham, Pułkowniku.
+209012	Skąd wiecie?
+209014	Wiem to nawet bez moich psionicznych "darów". Mówcie.
+209016	Czy to prawda, że twoja kompania wytepiła ostatnio herezję na planecie Cyrene? Przy pomocy Exterminatusa? Do ostatniego meżczyzny, kobiety i dziecka?
+209018	Pułkowniku, cieszy nas obecność waszej kompanii, ale nie oczekujemy takich pytań. Nie pytajcie Kapitana o Cyrene, jeśli chcecie się cieszyć jego zaszczytami.
+209020	Bracie Kapitanie. Pułkownik oczekuje na audiencje.
+209022	Dziękuję, Isadorze.
+209024	Panie. Mój 37 Regiment Gwardii Imperialnej jest gotowy by ci slużyć i bronić miasta. Chcielibyśmy poprawić...
+209026	Będą mieli wiele okazji by udowodnić, że są wojownikami godnymi Imperatora. Krwawe Kruki opuszczają miasto. Jego bezpieczeństwo znajduję się teraz w twoich rękach. 
+209028	Przygotuję moich ludzi. Mogę zapytać jakie są wasze plany?
+209030	Orkowie czują respekt tylko przed siłą. Nalegam, aby pokazać im, że nią dysponujemy. Jak długo Orkowie będą mieli obozowiska w pobliżu portu, tak długo będziemy nękani ich atakami.
+209400	Jak to sie stało, że Orkowie przedarli się przez pozycje obronne tak szybko? Dowiedz się jak Orkowie zdołali tego dokonać i wyeliminuj zagrożenie.
 209500	TARTARUS: planeta klasy ? (Planeta Cywilizowana)
-209502	POPULACJA: W przyblizeniu 3,8 Miliarda obywateli Imperium
-209504	WILKOSC DZIESIECINY: Exactis Tertius
+209502	POPULACJA: W przybliżeniu 3,8 Miliarda obywateli Imperium
+209504	WIELKOŚĆ DZIESIĘCINY: Exactis Tertius
 209506	EWIDENCJA IMPERIALNA: 00426534.005 odn. 50021
-209508	POWIAZANE Z: Swiety Lloovre Marr
+209508	POWIĄZANE Z: Święty Lloovre Marr
 209510	DATA: 2503787.M41
 209512	STAN AKTUALNY: Atakowana
 209514	AGRESOR: Orkowie - Kategoria Obcych 0012
-209516	OBECNOSC WOJSKOWA: Tartarusjanskie Sily Obrony Planetarnej
-209518	Zakon Krwawych Krukow (w drodze)
+209516	OBECNOŚĆ WOJSKOWA: Tartarusjańskie Siły Obrony Planetarnej
+209518	Zakoń Krwawych Kruków (w drodze)
 209520	PRZEWIDYWANE STRATY: 87%
-209531	3 komp. Krwawych Krukow
-209532	Klan Szabrowcow
-209533	Tartarusjanskie Sily Obronne Alfa
-209534	Neutralna 3 komp. Krwawych Krukow
-
+209531	3 komp. Krwawych Kruków
+209532	Klan Szabrowców
+209533	Tartarusjańskie Siły Obronne Alfa
+209534	Neutralna 3 komp. Krwawych Kruków
 209550	Misja 1 – Początek misji
 209552	Misja 1 – Baza główna założona
 209554	Misja 1 – Pierwszy obóz Orków zniszczony
