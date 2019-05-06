@@ -84,14 +84,14 @@
 38080	Gracz
 38081	Drużyna
 38085	%1PROGRESS%%%
-38086	nie dotyczy
+38086	Nie dotyczy
 38090	%1MIN%-%2MAX%
 38092	%1MIN%-%2MAX%
 38096	+%1NUM%
 38097	%1CURR%/%2MAX%
 38098	%1CURR%/%2MAX%
 38100	Wydobywaj zasoby tutaj.
-38101	Broń sie tutaj.
+38101	Broń się tutaj.
 38102	Atakuj tutaj.
 38103	Zajmij to miejsce.
 38150	Wymagania: %1ITEM%
@@ -259,71 +259,72 @@
 40890	Desant
 40891	Wybierz miejsce znajdujące się w zasięgu wzroku twoich jednostek, żeby teleportować tam pierwszy dostępny oddział. Procedura ta zabiera pewną ilość czasu. Desant wymaga też określonej ilości miejsca, w braku którego jednostka nie przybędzie na pole walki. Do przeprowadzenia desantu potrzebny jest Przekaźnik Orbitalny.
 
-40892	Wystrzel ladownik
-40893	Wybierz miejsce znajdujace sie w zasiegu wzroku twoich jednostek, aby desantowac pierwszy dostepny oddzial w wybrane miejsce. Procedura ta zabiera pewna ilosc czasu. Dodatkowo, desant wymaga okreslonej ilosci miejsca, w braku ktorego jednostka nie przybedzie na pole walki.
-40894	Przywolanie demonow
-40895	Wybierz miejsce znajdujace sie w zasiegu wzroku twoich jednostek, aby przyzwac pierwszy dostepny oddzial w wybrane miejsce. Procedura ta zabiera pewna ilosc czasu. Dodatkowo, przywolanie wymaga okreslonej ilosci miejsca, w braku ktorego jednostka nie przybedzie na pole walki.
+40892	Wystrzel ładownik
+40893	Wybierz miejsce znajdujące się w zasięgu wzroku twoich jednostek, aby desantować pierwszy dostępny oddział w wybrane miejsce. Procedura ta zabiera pewną ilość czasu. Dodatkowo, desant wymaga określonej ilości miejsca, w braku którego jednostka nie przybędzie na pole walki.
+40894	Przywołanie demonów
+40895	Wybierz miejsce znajdujące się w zasięgu wzroku twoich jednostek, aby przyzwać pierwszy dostępny oddział w wybrane miejsce. Procedura ta zabiera pewną ilość czasu. Dodatkowo, przywołanie wymaga określonej ilości miejsca, w braku którego jednostka nie przybędzie na pole walki.
 40900	Ruch ofensywny
-40901	Kliknij LPM na tym przycisku a nastepnie wybierz miejsce, do ktorego udadza sie wybrane oddzialy. Jesli rozkazowi ruchu towarzyszy rozkaz ataku, jednostki zaatakuja kazdy napotkany oddzial lub budynek wroga.
-40902	Ostrzal terenu
-40903	Kliknij LPM na tym przycisku a nastepnie wybierz miejsce, w ktore chcesz skierowac ostrzal. Ogien traci na celnosci, jesli wybrany cel nie znajduje sie w zasiegu wzroku zadnej z twoich jednostek.
-40904	Atak wrecz
-40905	Opis ataku wrecz
+40901	Kliknij LPM na tym przycisku, a następnie wybierz miejsce, do którego udadzą się wybrane oddziały. Jeśli rozkazowi ruchu towarzyszy rozkaz ataku, jednostki zaatakują każdy napotkany oddział lub budynek wroga.
+40902	Ostrzał terenu
+40903	Kliknij LPM na tym przycisku, a następnie wybierz miejsce, w które chcesz skierować ostrzał. Ogień traci na celności, jeśli wybrany cel nie znajduję się w zasięgu wzroku żadnej z twoich jednostek.
+40904	Atak wręcz
+40905	Opis ataku wręcz
 40906	Stop
-40907	Kliknij LPM, aby anulowac aktualne rozkazy jednostki.
+40907	Kliknij LPM, aby anulować aktualne rozkazy jednostki.
 40908	Buduj
-40909	Kliknij LPM, aby otworzyc menu budowania zawierajace wszystkie dostepne budynki.
-40910	Wznies zaawansowane budynki
-40911	Opis zaawansowanych budynkow
+40909	Kliknij LPM, aby otworzyć menu budowania zawierające wszystkie dostępne budynki.
+40910	Wznieś zaawansowane budynki
+40911	Opis zaawansowanych budynków
 40912	Walka wrecz
-40913	Kliknij LPM na tym przycisku a nastepnie na oddziale wroga. Wszystkie zaznaczone oddzialy rusza w kierunku wskazanego wroga, po czym zaczna z nim starcie wrecz.
+40913	Kliknij LPM na tym przycisku, a następnie na oddziale wroga. Wszystkie zaznaczone oddziały ruszą w kierunku wskazanego wroga, po czym zaczną z nim starciem wręcz.
 40914	Teleportacja
-40915	Kliknij LPM na tym przycisku a nastepnie wybierz miejsce, do ktorego maja teleportowac sie wybrane oddzialy. Dzieki temu sposobowi transportu mozesz dostac sie na teren normalnie niedostepny.
+40915	Kliknij LPM na tym przycisku, a następnie wybierz miejsce, do którego mają teleportować się wybrane oddziały. Dzięki temu sposobowi transportu możesz dostać się na teren normalnie niedostępny.
 40916	Skok
-40917	Kliknij LPM na tym przycisku a nastepnie wybierz miejsce, do ktorego ma przemiescic sie oddzial. Lot pozwala na przekraczanie wszystkich przeszkod terenowych oraz wrogich jednostek.
-40918	Zdolnosci
-40919	Opis zdolnosci
+40917	Kliknij LPM na tym przycisku, a następnie wybierz miejsce, do którego ma przemieścić się oddział. Lot pozwala na przekraczanie wszystkich przeszkód terenowych oraz wrogich jednostek.
+40918	Zdolności
+40919	Opis zdolności
 40920	Zniszcz
 40921	Kliknij LPM i potwierdz zniszczenie tej jednostki lub budynku.
 40922	Ruch
-40923	Kliknij LPM na tym przycisku a nastepnie wybierz miejsce, do ktorego udadza sie wybrane oddzialy. Nie beda one atakowac napotkanych wrogow ani odpowiadac ogniem, dlatego tez musisz uwazac przy wydawaniu tego rozkazu.
+40923	Kliknij LPM na tym przycisku, a następnie wybierz miejsce, do którego udadzą się wybrane oddziały. Nie będą one atakować napotkanych wrogów ani odpowiadać ogniem, dlatego też musisz uważać przy wydawaniu tego rozkazu.
 40924	Atak
-40925	Opis ataki
-40926	Dolacz / Odlacz
-40927	Kliknij LPM na tym przycisku a nastepnie na oddziale, do ktorego chcesz dolaczyc wybrana jednostke. Od tej pory jednostka bedzie wykonywac te same rozkazy, ktore zostana wydane oddzialowi. Aby odlaczyc ja od oddzialu, ponownie kliknij na tym przycisku.
-40930	Wyladuj
-40931	Kliknij LPM, aby wyladowac wszystkie jednostki. Wyladowane jednostki pojawia sie w poblizu budynku lub pojazdu, w ktorym przebywaly.
-40932	Przenies
-40933	Eldarzy moga przenosic wlasne budynki za pomoca Bram Osnowy. Aby to zrobic, Kliknij LPM na tym przycisku i wybierz miejsce w ktorym dany budynek ma sie pojawic. Budynki mozne przenosic z i w miejsca polozone blisko Bram Osnowy.
+40925	Opis ataku
+40926	Dołącz / Dołącz
+40927	Kliknij LPM na tym przycisku, a następnie na oddziale, do którego chcesz dołączyć wybraną jednostkę. Od tej pory jednostka będzie wykonywać te same rozkazy, które zostaną wydane oddziałowi. Aby odłączyć ją od oddziału, ponownie kliknij na tym przycisku.
+40930	Wyładuj
+40931	Kliknij LPM, aby wyładować wszystkie jednostki. Wyładowane jednostki pojawią się w pobliżu budynku lub pojazdu, w którym przebywały.
+40932	Przenieś
+40933	Eldarzy mogą przenosić własne budynki za pomocą Bram Osnowy. Aby to zrobić, Kliknij LPM na tym przycisku i wybierz miejsce, w którym dany budynek ma się pojawić. Budynki można przenosić z i w miejsca położone blisko Bram Osnowy.
 40934	Anuluj budowe
-40935	Kliknij LPM, aby przerwac proces budowy.
-40936	Przywolaj Krwiopijca
-40937	Kliknij LPM, aby w jednostka zostala przejeta przez Krwiopijca - Wiekszego Demona Khorna. Opetana jednostka zginie, a w jej miejscu pojawi sie Krwiopijec. Tylko Lord Chaosu, Czarnoksieznik Chaosu i Czempion moga zostac opetani przez demona.
+40935	Kliknij LPM, aby przerwać proces budowy.
+40936	Przywołaj Krwiopijca
+40937	Kliknij LPM, aby jednostka została przejęta przez Krwiopijca - Większego Demona Khorna. Opętana jednostka zginie, a w jej miejscu pojawi się Krwiopijec. Tylko Lord Chaosu, Czarnoksiężnik Chaosu i Czempion mogą zostać opętani przez demona.
 40938	Spustoszenie
-40939	Kliknij na tym przycisku, a nastepnie wskaz miejsce na mapie, aby ta jednostka zaczela siac spustoszenie w wybranej lokacji. Wszystkie jednostki na drodze zostana brutalnie odrzucone na bok.
-40940	Wlacz infiltracje
-40941	Infiltracja pozwala na skryte przemieszczanie sie dzieki czemu jednostka nie moze zostac zauwazona przez wiekszosc jednostek przeciwnika. Infiltrujaca jednostka nie zaatakuje wroga, chyba ze zostanie wydany jej taki rozkaz. Atak natychmiast przerywa infiltracje.
-40942	Wylacz infiltracje
-40943	Przerywa dzialanie infiltracji.
-40950	Pasek wytrzymalosci
-40951	Aktualna i maksymalna wytrzymalosc budynku lub jednostki. Kiedy spadnie ona do zera, budynek lub jednostka ulega zniszczeniu. Wytrzymalosc oddzialow odzwierciedla wytrzymalosc poszczegolnych jego czlonkow.
+40939	Kliknij na tym przycisku, a następnie wskaż miejsce na mapie, aby ta jednostka zaczęła spustoszenie w wybranej lokacji. Wszystkie jednostki na drodze zostaną brutalnie odrzucone na bok.
+40940	Włącz infiltrację
+40941	Infiltracja pozwala na skryte przemieszczanie się dzięki czemu jednostka nie może zostać zauważona przez większość jednostek przeciwnika. Infiltrująca jednostka nie zaatakuje wroga, chyba że zostanie wydany jej taki rozkaz. Atak natychmiast przerywa infiltrację.
+40942	Wyłącz infiltrację
+40943	Przerywa działanie infiltracji.
+40950	Pasek wytrzymałości
+40951	Aktualna i maksymalna wytrzymałość budynku lub jednostki. Kiedy spadnie ona do zera, budynek lub jednostka ulega zniszczeniu. Wytrzymałość oddziałów odzwierciedla wytrzymałość poszczególnych jego członków.
 40952	Pasek morale
-40953	Aktualne i maksymalne morale wybranej jednostki. Kiedy spadnie ono do zera, oddzial ulegnie rozbiciu i przestanie byc przydatny w walce. Jesli oddzial nie walczy, to po pewnym czasie jego morale wroci do maksymalnego poziomu. Jednostki nie posiadajace wskaznika morale sa odporne na czynniki wplywajace na te ceche.
+40953	Aktualne i maksymalne morale wybranej jednostki. Kiedy spadnie ono do zera, oddział ulegnie rozbiciu i przestanie być przydatny w walce. Jeśli oddział nie walczy, to po pewnym czasie jego morale wrócą do maksymalnego poziomu. Jednostki nie posiadające wskaźnika morale są odporne na czynniki wpływające na te cechę.
 40954	Gracz
-40955	Imie gracza, bedacego wlascicielem budynku lub jednostki.
+40955	Imię gracza, będącego właścicielem budynku lub jednostki.
 40956	Pancerz
-40957	Pancerz okresla, jak bardzo dana jednostka odporna jest na ataki nieprzyjaciela. Im wyzsza wartosc Pancerza, tym odpornosc wieksza.
+40957	Pancerz określa, jak bardzo dana jednostka odporna jest na ataki nieprzyjaciela. Im wyższa jest wartość Pancerza, tym odporność jest większa.
 40958	Rodzaj jednostki
-40959	Rodzaj jednostki, determinujacy podatnosc na poszczegolne rodzaje broni. W grze wystepuja nastepujace rodzaje jednostek: dowodca, piechota, ciezka piechota, pojazd, budynek i demon. 
-40962	Aktualnie wybrany oddzial
-40963	Aktualny wybor. Kliknij LPM na tej ikonie, aby wysrodkowac obraz na tym oddziale.
-40964	Nazwa oddzialu
-40965	Nazwa wybranego oddzialu
-40966	Obrazenia w walce strzeleckiej
-40967	Ilosc obrazen, ktore bron czlonkow oddzialu zadaje w kazdej sekundzie walki strzeleckiej. Na srednia skutecznosc wplywaja minimalne oraz maksymalne obrazenia, szybkostrzelnosc i celnosc.
-40968	Obrazenia w walce wrecz
-40969	Ilosc obrazen, ktore bron czlonkow oddzialu zadaje w kazdej sekundzie walki wrecz. Na srednia skutecznosc wplywaja minimalne oraz maksymalne obrazenia, szybkosc atakow i celnosc.
-40970	Znaczniki oddzialow
+40959	Rodzaj jednostki, determinuje podatność na poszczególne rodzaje broni. W grze występują następujące rodzaje jednostek: dowódca, piechota, ciężka piechota, pojazd, budynek i demon. 
+40962	Aktualnie wybrany oddział
+40963	Aktualny wybór. Kliknij LPM na tej ikonie, aby wyśrodkować obraz na tym oddziale.
+40964	Nazwa oddziału
+40965	Nazwa wybranego oddziału
+40966	Obrażenia w walce strzeleckiej
+40967	Ilość obrażeń, które broń członków oddziału zadaje w każdej sekundzie walki strzeleckiej. Na średnią skuteczność wpływają: minimalne oraz maksymalne obrażenia, szybkostrzelność i celność.
+40968	Obrażenia w walce wręcz
+40969	Ilość obrażeń, które broń członków oddziału zadaje w każdej sekundzie walki wręcz. Na średnią skuteczność wpływają: minimalne oraz maksymalne obrażenia, szybkość ataków i celność.
+40970	Znaczniki oddziałów
+
 40971	Lista typow oddzialow, przeciwko ktorym wybrany oddzial jest szczegolnie skuteczny. Aby sprawdzic typ oddzialu, wybierz go i sprawdz podane informacje.
 40972	Zasoby
 40973	Wyswietla ilosc zasobow wytwarzanych przez dany budynek.
